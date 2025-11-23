@@ -16,5 +16,23 @@ p
 }
 body
 {
-    background-color: lightyellow;
+    background-color: rgb(250, 250, 250);
+    /* background-color: #ff0000; */
 }
+
+*{
+    font-family: Arial, sans-serif;   /* select all elements */
+    font-style: italic;
+}
+#headerr
+{
+    text-align: center;
+    color: brown;
+    
+}
+.para{
+    color: teal;
+    font-size: 18px;
+    font-weight: calc(23);
+}
+ 

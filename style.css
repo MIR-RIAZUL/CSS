@@ -28,8 +28,11 @@ body
 #headerr
 {
     text-align: center;
+    text-shadow: 0capx 4px 6px rgba(0, 0, 0, 0.3);
     color: brown;
-    
+    text-decoration:rgb(145, 135, 155) wavy underline;
+    font-size: x-large;
+    font-weight: bolder;
 }
 .para{
     color: teal;

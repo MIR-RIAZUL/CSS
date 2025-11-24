@@ -13,6 +13,8 @@ p
     font-size: 20px;
     color: darkgreen;
     text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 20px;
     
 }
 body
@@ -30,9 +32,10 @@ body
     text-align: center;
     text-shadow: 0capx 4px 6px rgba(0, 0, 0, 0.3);
     color: brown;
-    text-decoration:rgb(145, 135, 155) wavy underline;
+    text-decoration:rgb(145, 135, 155) double underline;
     font-size: x-large;
     font-weight: bolder;
+   
 }
 .para{
     color: teal;
@@ -40,3 +43,53 @@ body
     font-weight: calc(23);
 }
  
+#pxx{
+    color: orange;
+    font-size: 25px;
+    line-height: 22px;
+}
+#px{
+    color: purple;
+    font-size: 35px;
+    line-height: 30px;
+}
+.me{
+    color: blueviolet;
+    font-size: 22px;
+    font-weight: bold;
+}
+#mmm{
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: saddlebrown solid 3px;
+    height: 100px;
+    width: 400px;
+    border: 2px solid gray;
+    margin: 50px 25px;
+    
+}
+
+div{
+    color: darkblue;
+    height: fit-content;
+    width: fit-content;
+    font-size: 28px;
+    font-weight: bolder;
+    padding: 10px 15px;
+    border: 2px solid gray;
+    margin: 30px 20px;
+    
+  
+}
+.my{
+    color: darkred;
+    width: fit-content;
+    font-size: 30px;
+    font-weight: bolder;
+    border: 2px solid pink;
+    padding: 5px 10px;  
+    border-radius: 40px;
+}
